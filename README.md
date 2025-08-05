@@ -1,0 +1,3 @@
+This is a course I am deeply passionate about. It elegantly bridges Shannon’s capacity theorem from information theory with its practical realization, combining mathematical insight with engineering expertise. Below is the opening paragraph from the course description by Professor Frank Kschischang, as presented on the course homepage:
+
+```From a practical standpoint, the essential limitation of all coding and decoding schemes proposed to date has not been Shannon's capacity but the complexity (and cost) of the decoder. For this reason, efforts have been directed toward the design of coding and decoding schemes which could be easily implemented. -- Elwyn Berlekamp```
